@@ -22,7 +22,7 @@
   },
   "dependencies": {},
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "test:staged": "jest"
   }
 }
